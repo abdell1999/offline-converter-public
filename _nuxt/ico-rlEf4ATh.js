@@ -1,0 +1,1 @@
+function s(n){const A=22+n.length,r=new ArrayBuffer(A),t=new DataView(r),e=new Uint8Array(r);return t.setUint16(0,0,!0),t.setUint16(2,1,!0),t.setUint16(4,1,!0),e[6]=0,e[7]=0,e[8]=0,e[9]=0,t.setUint16(10,1,!0),t.setUint16(12,32,!0),t.setUint32(14,n.length,!0),t.setUint32(18,22,!0),e.set(n,22),new Uint8Array(r)}export{s as encodeIco};
