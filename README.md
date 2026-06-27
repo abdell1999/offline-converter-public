@@ -1,2 +1,1 @@
-# offline-converter-public
-Offline converter - public version
+#ABR Offline converter (by abdell1999)
