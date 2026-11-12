@@ -188,6 +188,10 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-webp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-pdf</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/unir-pdf</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/dividir-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ttf-a-otf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ttf-a-woff</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ttf-a-woff2</loc></url>
@@ -459,6 +463,10 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-webp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-pdf</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/merge-pdf</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/split-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ttf-to-otf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ttf-to-woff</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ttf-to-woff2</loc></url>
