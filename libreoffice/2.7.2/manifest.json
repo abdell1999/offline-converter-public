@@ -1,0 +1,18 @@
+{
+  "version": "2.7.2",
+  "files": {
+    "wasm": {
+      "parts": [
+        "soffice.wasm.gz.part00",
+        "soffice.wasm.gz.part01"
+      ],
+      "size": 147416331
+    },
+    "data": {
+      "parts": [
+        "soffice.data.gz.part00"
+      ],
+      "size": 99735918
+    }
+  }
+}
