@@ -190,6 +190,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/pdf-a-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/unir-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/dividir-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ttf-a-otf</loc></url>
@@ -213,15 +214,23 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/md-a-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/md-a-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/md-a-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/md-a-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/html-a-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/html-a-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/html-a-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/html-a-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/txt-a-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/txt-a-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/txt-a-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/txt-a-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/epub-a-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/epub-a-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/epub-a-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/epub-a-docx</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/docx-a-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/docx-a-html</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/docx-a-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/docx-a-epub</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/csv-a-tsv</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/csv-a-json</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/csv-a-yaml</loc></url>
@@ -465,6 +474,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/pdf-to-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/merge-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/split-pdf</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ttf-to-otf</loc></url>
@@ -488,15 +498,23 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/md-to-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/md-to-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/md-to-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/md-to-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/html-to-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/html-to-txt</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/html-to-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/html-to-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/txt-to-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/txt-to-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/txt-to-epub</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/txt-to-docx</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/epub-to-md</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/epub-to-html</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/epub-to-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/epub-to-docx</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/docx-to-md</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/docx-to-html</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/docx-to-txt</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/docx-to-epub</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/csv-to-tsv</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/csv-to-json</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/csv-to-yaml</loc></url>

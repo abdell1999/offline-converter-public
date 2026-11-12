@@ -1,0 +1,1 @@
+import s from"./BrxXTQcy.js";import c from"./D4WbaK5X.js";import{l as m}from"./C_RM5MOh.js";const u={es:s,en:c};function f(e){const{locale:o,mergeLocaleMessage:r}=m();r(e,u[e]),o.value=e}export{f as u};
