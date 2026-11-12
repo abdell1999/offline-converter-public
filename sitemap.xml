@@ -19,6 +19,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/png-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/png-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/png-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/png-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-webp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-avif</loc></url>
@@ -26,6 +27,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/jpg-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-avif</loc></url>
@@ -33,6 +35,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/webp-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-webp</loc></url>
@@ -40,6 +43,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/avif-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-webp</loc></url>
@@ -47,6 +51,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/gif-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-webp</loc></url>
@@ -54,6 +59,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/bmp-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-webp</loc></url>
@@ -61,6 +67,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/ico-a-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-webp</loc></url>
@@ -68,6 +75,15 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-ico</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/tiff-a-svg</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-png</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-jpg</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-webp</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-avif</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-gif</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-bmp</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-ico</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/svg-a-tiff</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/mp4-h264-a-webm-vp9</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/mp4-h264-a-webm-vp8</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convertir/mp4-h264-a-avi</loc></url>
@@ -274,6 +290,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/png-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/png-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/png-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/png-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-webp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-avif</loc></url>
@@ -281,6 +298,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/jpg-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-avif</loc></url>
@@ -288,6 +306,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/webp-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-webp</loc></url>
@@ -295,6 +314,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/avif-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-webp</loc></url>
@@ -302,6 +322,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/gif-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-webp</loc></url>
@@ -309,6 +330,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-ico</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/bmp-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-webp</loc></url>
@@ -316,6 +338,7 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-tiff</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/ico-to-svg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-png</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-jpg</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-webp</loc></url>
@@ -323,6 +346,15 @@
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-gif</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-bmp</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-ico</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/tiff-to-svg</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-png</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-jpg</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-webp</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-avif</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-gif</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-bmp</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-ico</loc></url>
+  <url><loc>https://abdell1999.github.io/offline-converter-public/convert/svg-to-tiff</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/mp4-h264-to-webm-vp9</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/mp4-h264-to-webm-vp8</loc></url>
   <url><loc>https://abdell1999.github.io/offline-converter-public/convert/mp4-h264-to-avi</loc></url>
