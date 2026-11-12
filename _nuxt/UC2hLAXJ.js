@@ -1,0 +1,1 @@
+import{_ as c}from"./Cy9u-5o_.js";import{e as r,l as i,m as p,j as _,o as a,v as n}from"./CMUDQn4w.js";import"./CPsvVjgH.js";const g=r({__name:"index",setup(m){const{t:e}=i(),o=n(()=>e("seo.homeTitle")),t=n(()=>e("seo.homeDescription"));return p({title:o,description:t,ogTitle:o,ogDescription:t}),(u,l)=>{const s=c;return a(),_(s)}}});export{g as default};
