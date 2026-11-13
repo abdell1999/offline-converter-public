@@ -1,15 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="abr-logo-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8b5cf6"/>
-      <stop offset="0.5" stop-color="#06b6d4"/>
-      <stop offset="1" stop-color="#10b981"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="16" fill="url(#abr-logo-bg)"/>
+  <rect width="64" height="64" rx="4" fill="#0f6b45"/>
   <path d="M32 12l17 6v12c0 11-7 19-17 23-10-4-17-12-17-23V18z" fill="#fff"/>
-  <path d="M25 30a8 8 0 0 1 13-4" fill="none" stroke="#06b6d4" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M39 22v5h-5" fill="none" stroke="#06b6d4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M39 35a8 8 0 0 1-13 4" fill="none" stroke="#10b981" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M25 43v-5h5" fill="none" stroke="#10b981" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 30a8 8 0 0 1 13-4" fill="none" stroke="#0f6b45" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M39 22v5h-5" fill="none" stroke="#0f6b45" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 35a8 8 0 0 1-13 4" fill="none" stroke="#0f6b45" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M25 43v-5h5" fill="none" stroke="#0f6b45" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

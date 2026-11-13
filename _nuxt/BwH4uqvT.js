@@ -1,0 +1,1 @@
+import{_ as r}from"./8VJ5cBjp.js";import{_ as e}from"./DlAUqK2U.js";import{j as t,o as c}from"./3bKn84n3.js";import"./C4DqA0to.js";const _={};function n(s,a){const o=r;return c(),t(o,{locale:"es"})}const l=e(_,[["render",n]]);export{l as default};
