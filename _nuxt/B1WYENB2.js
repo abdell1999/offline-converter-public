@@ -1,1 +1,0 @@
-import{X as a,u as t,aj as n}from"./BzWXdVkD.js";function f(e,l){const r=a().public.siteUrl??"";t({link:[{rel:"canonical",href:n(r,e[l])},{rel:"alternate",hreflang:"es",href:n(r,e.es)},{rel:"alternate",hreflang:"en",href:n(r,e.en)},{rel:"alternate",hreflang:"x-default",href:n(r,e.es)}]})}export{f as u};
